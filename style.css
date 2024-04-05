@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.scanner-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#preview {
+    width: 300px;
+    height: 300px;
+    border: 2px solid #333;
+}
